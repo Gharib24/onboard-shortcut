@@ -1,7 +1,10 @@
-Licence: MIT
+Licence: MIT or GPLv2+
 Author: Martin Sadový <sodae@email.cz>
 
 No guarantee
 
 If you want to disable Caribou and use onboard keyboard, I recommend to 
 install extensions: Block caribou, Onboard integration
+
+URL extension: https://extensions.gnome.org/extension/1406/onboard-panel-shortcut/
+
